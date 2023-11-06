@@ -1,0 +1,17 @@
+{
+    "short_name": "Next PWA",
+    "name": "Next PWA Tutorial",
+    "description": "...",
+    "icons": [
+        {
+            "src": "/lr-favicon-dark.ico",
+            "type": "image/png",
+            "sizes": "36x36"
+        }
+    ],
+    "start_url": "/",
+    "background_color": "#FFFFFF",
+    "display": "standalone",
+    "scope": "/",
+    "theme_color": "#000000"
+}

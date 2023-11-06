@@ -1,0 +1,9 @@
+User-agent: *
+Allow: 
+Disallow: /buy?
+Disallow: /sell-detail?
+Disallow: /final-details-address?
+Disallow: /feed/
+Disallow: /tag/
+Disallow: /category/
+Sitemap: https://luxuryride.in/sitemap.xml
